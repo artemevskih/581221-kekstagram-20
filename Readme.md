@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Alexey Artemevskih](https://up.htmlacademy.ru/javascript/20/user/581221).
-* Наставник: `Неизвестно`.
+* Наставник: [John Doe](https://htmlacademy.ru).
 
 ---
 
